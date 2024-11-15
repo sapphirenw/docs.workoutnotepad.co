@@ -3,5 +3,5 @@ init:
 		npm install retypeapp --global; \
 	}
 
-dev: init
-	retype start
+run: init
+	@retype start
