@@ -1,0 +1,21 @@
+input: .
+output: .retype
+url: docs.workoutnotepad.co
+
+branding:
+  title: W. Notepad
+  label: Docs
+  logo: static/dumbbell.png
+  colors:
+    label:                    # Label colors
+      text: "#418a2f"         # Custom color for the label text
+      background: "#daf3cf"
+
+favicon: favicon.ico
+
+links:
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
