@@ -5,15 +5,8 @@ meta:
 icon: home
 ---
 
-<style>
-    .rounded {
-        border-radius: 20px;
-        object-fit: cover;
-    }
-</style>
-
 :::rounded
-![](/static/main-asset.png)
+![Front Page|200](https://github.com/jake-landersweb/workout_notepad_v2/raw/refs/heads/main/screenshots/webp/device/0-homescreen.webp)
 :::
 
 # Workout Notepad Documentation
